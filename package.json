@@ -20,11 +20,7 @@
     "@angular/platform-browser": "~8.0.0",
     "@angular/platform-browser-dynamic": "~8.0.0",
     "@angular/router": "~8.0.0",
-<<<<<<< HEAD
     "bootstrap": "^3.4.1",
-=======
-    "lodash": "^4.17.15",
->>>>>>> 571464b7ef8643fe9a0b4e67f7284ee6760ab7f3
     "rxjs": "~6.4.0",
     "tslib": "^1.10.0",
     "zone.js": "~0.9.1"
